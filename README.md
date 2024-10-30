@@ -1,0 +1,2 @@
+# 3588_connection
+使用QT编写ubuntu系统下对应上位机，采用ros topic通信实现PC端发送指令给3588完成舵机控制
