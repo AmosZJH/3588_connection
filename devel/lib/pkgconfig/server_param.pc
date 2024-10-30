@@ -1,0 +1,8 @@
+prefix=/home/amoszjh/connection/devel
+
+Name: server_param
+Description: Description of server_param
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
