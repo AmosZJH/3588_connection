@@ -3,6 +3,7 @@ import sys
 
 sys.path.append("./src/plumbing_test/src")
 sys.path.append("./src/plumbing_test/scripts")
+sys.path.append("./devel/lib/python3/dist-packages")
 
 print(sys.path) #帮助查看导包是否正常,很重要，rosrun和vscode运行的路径是不一样的
 
